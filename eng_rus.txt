@@ -1,0 +1,17 @@
+key ключ
+dog собака
+cow корова
+tree дерево
+smart умный
+flower цветок
+thirty тридцать
+milk молоко
+chair стул
+winter зима
+game игра
+bread хлеб
+football футбол
+mouse мышь
+rose роза
+suit костюм
+house дом
